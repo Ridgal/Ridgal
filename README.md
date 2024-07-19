@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejkzcW0wemhtdjhiZXI1NmI5dGE0Zm5taXlvMGxuamQ5bmRtN2N4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="100%"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWw3ankwdHZpN3Y2bG5jemhpend2b3F6anJhdG03MXBkczBjcGt4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1vohJMVMtjSQxmUot/giphy.gif" width="100"/>
 </div>
 <!--
 **Ridgal/Ridgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
