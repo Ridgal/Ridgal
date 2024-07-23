@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Telegram-join%20us-blue?style=flat-square&logo=telegram" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-join%20us-blue?style=for-the-badge&logo=telegram" alt="Youtube Badge"/>
   </a>
 </div>
 
