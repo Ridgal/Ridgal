@@ -1,7 +1,7 @@
 
 # Hello, there
 <h3>I'm a Frontend developer, this is my profile, you can check it out.</h3>
-<h3>[Way to contact me](https://t.me/somalinsky)</h3>
+[Way to contact me](https://t.me/somalinsky)
 
 ---
 
