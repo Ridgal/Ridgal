@@ -1,7 +1,12 @@
-<div id="badges">
-  <a href="https://t.me/somalinsky">
-    <img src="https://img.shields.io/badge/Telegram-somalinsky-blue?style=for-the-badge&logo=telegram" target="_blank" alt="Telegram Badge"/>
-  </a>
+<div>
+  <h1>Hello, there </h1>
+  <h3>I'm a Frontend developer, this is my profile, you can check it out.</h3>
+  <h3>
+    Way to contact me
+    <a href="https://t.me/somalinsky">
+      <img src="https://img.shields.io/badge/Telegram-somalinsky-blue?style=for-the-badge&logo=telegram" target="_blank" alt="Telegram Badge"/>
+    </a>
+  </h3>
 </div>
 
 ### Languages and Tools
