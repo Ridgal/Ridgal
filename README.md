@@ -1,7 +1,7 @@
 
 # Hello, there
 <h3>I'm a Frontend developer, this is my profile, you can check it out.</h3>
-[fsdfsdf](dasdasdas)
+
 ---
 
 ### Languages and Tools
