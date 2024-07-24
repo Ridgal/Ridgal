@@ -1,7 +1,7 @@
 
 # Hello, there
 <h3>I'm a Frontend developer, this is my profile, you can check it out.</h3>
-[Contact me]("https://www.example.com")
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 ---
 
