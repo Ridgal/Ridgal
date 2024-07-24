@@ -4,3 +4,6 @@
   </a>
 </div>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ridgal&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ridgal&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ridgal&theme=transparent)
