@@ -3,6 +3,7 @@
 <h3>I'm a Frontend developer, this is my profile, you can check it out.</h3>
 <h3></h3>Way to [contact me](https://t.me/somalinsky)</h3>
 
+---
 
 ### Languages and Tools
 <div>
@@ -16,6 +17,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" title="Redux Toolkit" width="40" height="40" />&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" width="40" height="40" />&nbsp
 </div>
+
+---
 
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridgal&theme=transparent" />
