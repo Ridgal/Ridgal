@@ -20,7 +20,7 @@
 ---
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridgal&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridgal&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ridgal&theme=transparent&utcOffset=8" />
 </div>
 
