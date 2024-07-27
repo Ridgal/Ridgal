@@ -20,8 +20,8 @@
 ---
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridgal&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ridgal&theme=transparent&utcOffset=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridgal&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ridgal&theme=dark&show_icons=true&hide_border=true&count_private=false" />
 </div>
 
 
