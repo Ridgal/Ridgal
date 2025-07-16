@@ -24,13 +24,6 @@ I'm **Ridgal**, a passionate **Frontend Developer** focused on building modern, 
 
 ---
 
-### 🧩 Featured Projects
-
-- 🔹 [**MyApp**](https://github.com/Ridgal/myapp) – Full-featured application using Next.js, Zustand, and Tailwind
-- 🔹 [**Component Library**](https://github.com/Ridgal/component-library) – Reusable UI components with Storybook and TypeScript
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -42,9 +35,8 @@ I'm **Ridgal**, a passionate **Frontend Developer** focused on building modern, 
 
 ### 📫 Contact Me
 
-- Portfolio: [ridgal.dev](https://your-portfolio-link.com)
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- Telegram: [@yourusername](https://t.me/yourusername)
+- Email: [planetstoun@mail.ru](mailto:planetstoun@mail.ru)
+- Telegram: [@somalinsky](https://t.me/somalinsky)
 
 
 
