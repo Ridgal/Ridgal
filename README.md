@@ -24,15 +24,6 @@ I'm **Ridgal**, a passionate **Frontend Developer** focused on building modern, 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ridgal&theme=transparent&show_icons=true&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridgal&layout=compact&theme=transparent&hide_border=true" height="150"/>
-</p>
-
----
-
 ### 📫 Contact Me
 
 - Email: [planetstoun@mail.ru](mailto:planetstoun@mail.ru)
