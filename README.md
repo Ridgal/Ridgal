@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Ridgal | Frontend Developer
 
-<h3 align="center">React/Next.js specialist focused on clean code and performance</h3>
-
 ---
 
 ### 🛠 Tech Stack
