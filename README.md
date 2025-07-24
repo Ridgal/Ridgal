@@ -1,33 +1,78 @@
-# 👋 Hello there!
+# 👋 Hi, I'm Ridgal | Frontend Developer (React/Next.js Specialist)
 
-I'm **Ridgal**, a passionate **Frontend Developer** focused on building modern, performant, and user-friendly web applications.
-
-- 🚀 Tech enthusiast with a love for clean and scalable code
-- 🛠️ Currently working with **React**, **Next.js**, and **TypeScript**
-- 🎯 Always learning and improving my skills
+<h3 align="center">Building performant, accessible web applications with modern technologies</h3>
 
 ---
 
-### 🧰 Languages and Tools
+### 🚀 About Me
+
+- 💼 **2+ years** of commercial frontend development experience
+- 🛠 **Core expertise**: React, Next.js, TypeScript, and state management
+- 🏆 **Key strength**: Creating scalable architecture with FSD methodology
+- 🌱 **Currently learning**: Advanced React patterns and performance optimization
+- ✨ **Passionate** about clean code and UI/UX best practices
+
+---
+
+### 🛠 Tech Stack
+
+#### Core:
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### State Management:
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000?style=for-the-badge)
+
+#### Styling:
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+#### Tools:
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+---
+
+### 🔥 Featured Projects
+
+1. **[Marketplace Platform](link)** (Next.js, FSD, i18n)  
+   - Developed Avito-like marketplace from scratch
+   - Implemented Google Maps integration
+   - Optimized performance by 40%
+
+2. **[Telegram Analytics Dashboard](link)** (React, Redux Toolkit)  
+   - Real-time data visualization
+   - Custom chart components
+
+*(Note: Commercial projects are in private repos - happy to discuss details)*
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ridgal&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridgal&layout=compact&theme=radical&hide_border=true&exclude_repo=repo1,repo2" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ridgal&theme=radical&hide_border=true" />
+</div>
+
+---
+
+### 📫 Let's Connect
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>&nbsp;
+  <a href="mailto:planetstoun@mail.ru">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/somalinsky">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="[Your LinkedIn]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
----
-
-### 📫 Contact Me
-
-- Email: [planetstoun@mail.ru](mailto:planetstoun@mail.ru)
-- Telegram: [@somalinsky](https://t.me/somalinsky)
 
 
 
