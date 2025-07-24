@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Ridgal | Frontend Developer
 
----
-
 ### 🛠 Tech Stack
 
 #### Core:
